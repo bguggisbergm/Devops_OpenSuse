@@ -1,0 +1,4 @@
+index3.txt
+archivo de descarga de librerías.
+doc
+/var/log
